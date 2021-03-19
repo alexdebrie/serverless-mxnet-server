@@ -6,7 +6,7 @@ Flask-Cors==3.0.3
 graphviz==0.8.1
 idna==2.6
 itsdangerous==0.24
-Jinja2==2.9.6
+Jinja2==2.11.3
 jsonschema==2.6.0
 MarkupSafe==1.0
 mxnet==1.0.0
